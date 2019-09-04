@@ -1,0 +1,13 @@
+.selected {
+  background-color: #2dc492 !important;
+}
+.available {
+  background-color: rgb(231, 208, 208) !important;
+}
+.reserved {
+    background-color: grey !important;
+    cursor: default !important;
+}
+.seat:hover{
+    cursor: pointer;
+}
